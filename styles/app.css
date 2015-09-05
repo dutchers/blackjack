@@ -1,10 +1,15 @@
 .card {
   float: left;
   border: solid 1px black;
-  width: 100px;
+  width: 122px;
   border-radius: 5px;
-  height: 140px;
+  height: 169px;
   margin-right: 20px;
+}
+
+.card img {
+	height: 167px;
+	width: 120px;
 }
 
 .covered {
